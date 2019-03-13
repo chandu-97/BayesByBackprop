@@ -13,6 +13,12 @@ https://www.cs.toronto.edu/~graves/nips_2011.pdf
 
 https://arxiv.org/abs/1312.6114
 
+## Output
+
+![Example output for MNIST](Example.png)
+
+You can look at abalation runs [here](https://app.wandb.ai/chandu/Week%205%20BBB%20Abalations?workspace=user-chandu)
+
 ## Getting Started
 I would suggest to use a seperate virtual environment for this purpose so that it doesnot conflict.
 
